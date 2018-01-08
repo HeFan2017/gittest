@@ -1,2 +1,3 @@
 This is file test1, 2nd version.
 This is a new line added in dev1 branch.
+This the 2nd line added in dev1 branch.
