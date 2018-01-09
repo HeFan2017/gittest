@@ -4,3 +4,4 @@ This is a newline added on master
 
 a change from gittest
 another newline on gittest2
+3rd newline on gittest2
