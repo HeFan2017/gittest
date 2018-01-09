@@ -1,1 +1,2 @@
 This is test2.txt, the 4th version
+This is a newline added on dev2 branch
